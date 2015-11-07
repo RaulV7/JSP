@@ -61,7 +61,7 @@
     </nav>
       <section class="app-principal">
         <div class="container">
-          <h1>Bienvenidos a TecnoInfo</h1>
+          <h1>Probando Git</h1>
         <div>
 
           <!--Modal de Ingreso-->
